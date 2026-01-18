@@ -29,13 +29,13 @@ RoyaltyFlow is a blockchain-based platform that automatically tracks intellectua
 ### Local Development
 1. Clone the repository:
 ```bash
-git clone https://github.com/Servora/royaltyflow.git
+git clone https://github.com/Servora/RoyaltyFlow.git
 cd royaltyflow
 
 ## Start services:
 docker-compose up -d
-
-Platform Integrations
+```
+### **Platform Integrations**
 Obtain API keys for:
 
 YouTube Data API v3
